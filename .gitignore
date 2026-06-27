@@ -1,0 +1,10 @@
+vendor/
+writable/cache/
+writable/logs/
+writable/session/
+.env
+node_modules/
+screenshots/*.png
+screenshots/*.jpg
+!screenshots/.gitkeep
+modul-extracted.json
