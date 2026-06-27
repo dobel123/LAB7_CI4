@@ -1,0 +1,1 @@
+const About = { template: '<section class="panel"><div class="avatar">UPB</div><h2>Profil Mahasiswa</h2><p><strong>Nama:</strong> Nama Mahasiswa</p><p><strong>NIM:</strong> 000000000</p><p><strong>Kelas:</strong> TI.XX</p><p>Halaman ini diproteksi oleh Vue Router Navigation Guard.</p></section>' };
